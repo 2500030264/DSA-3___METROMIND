@@ -1,0 +1,1 @@
+id,name,sourceStationId,destinationStationId,intermediateStationIds,distanceKm,estimatedTimeMinutes,travelCost,description,status
